@@ -9,12 +9,12 @@
 ---
 
 ### :metal: *Live version:* 
-[Digital Rights (Live).](https://www.fdsm.edu.br/extensao-em-direito-do-trabalho/)
+[Extension course in Processual Working Rights PWA (Live).](https://www.fdsm.edu.br/extensao-em-direito-do-trabalho/)
 
 ---
 
 ### :date: *Web-archive version:*
-[Digital Rights (Web-archive).](http://web.archive.org/web/20190617121618/https://www.fdsm.edu.br/extensao-em-direito-do-trabalho/)
+[Extension course in Processual Working Rights PWA (Web-archive).](http://web.archive.org/web/20190617121618/https://www.fdsm.edu.br/extensao-em-direito-do-trabalho/)
 
 ---
 
