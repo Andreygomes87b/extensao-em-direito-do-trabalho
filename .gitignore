@@ -1,0 +1,18 @@
+# Ignore gruntJs Folder.
+/node_modules
+
+#ignore other project folders:
+/backup online
+/backup que estava adaptando em parallax
+/fonts
+/.vscode
+/bkp
+# ignore a single file
+package-lock.json
+website_curso_ext_ddt_completo.pdf
+
+#ignore other project files:
+curso-direito-digital.zip
+images/bkp/
+
+images/img-fallback/rmk/
